@@ -1,0 +1,6 @@
+{
+  "name": "سلطان سیپی",
+  "description": "خرید سیپی کالاف دیوتی موبایل با تخفیف‌های فوق‌العاده و تحویل فوری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
